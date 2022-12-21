@@ -418,7 +418,7 @@ if($query){
 						<div class="col-md-4">
 							<div class="card">
 								<div class="card-body">
-									<div class="card-title fw-mediumbold">Nuevos doctores</div>
+									<div class="card-title fw-mediumbold">Nuevos medicos especialistas</div>
 									<?php
 
 $con = connect();
@@ -460,7 +460,7 @@ if($query){
 						<div class="col-md-4">
 							<div class="card">
 								<div class="card-body">
-									<div class="card-title fw-mediumbold">Nuevos especialidades</div>
+									<div class="card-title fw-mediumbold">Nuevas especialidades</div>
 									<?php
 
 $con = connect();
